@@ -29,5 +29,7 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p4sdfodgec6dn6qqydvpkcjytu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+### 🎧 Now Playing on Spotify  
+
+[![Spotify Now Playing](https://spotify-github-profile.kittinanx.com/api/view?uid=31p4sdfodgec6dn6qqydvpkcjytu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/31p4sdfodgec6dn6qqydvpkcjytu)
 
