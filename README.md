@@ -1,6 +1,7 @@
 # 👋 Hey, I'm Matix7z!
 
-🚀 Welcome to my GitHub profile! Here you'll find my projects, ideas, and experiments.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74DE9&width=435&lines=Hey%2C+welcome+to+my+GitHub!;I+love+Netspend+and+Fortnite!)](https://git.io/typing-svg)
+ 
 
 ---
 
