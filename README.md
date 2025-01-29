@@ -1,10 +1,10 @@
 # 👋 Hey, I'm Matix7z!
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&width=435&lines=Hey%2C+welcome+to+my+GitHub!;I+love+Netspend+and+Fortnite!" alt="Typing SVG" />
   </a>
-</p>
+</div>
 
 ---
 
