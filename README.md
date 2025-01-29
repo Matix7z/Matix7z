@@ -1,19 +1,25 @@
 # 👋 Hey, I'm Matix7z!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74DE9&width=435&lines=Hey%2C+welcome+to+my+GitHub!;I+love+Netspend+and+Fortnite!)](https://git.io/typing-svg)
- 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DB954&width=435&lines=Hey%2C+welcome+to+my+GitHub!;I+love+Netspend+and+Fortnite!" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matix7z&show_icons=true&theme=dracula)
-
----
-
-## 🎵 Spotify  
+## 📊 <span style="color:#1DB954">Matix7z's GitHub Stats</span>
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://github-readme-stats.vercel.app/api?username=Matix7z&show_icons=true&theme=dark&icon_color=1DB954&title_color=1DB954&text_color=ffffff" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🎵 Spotify Now Playing  
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31p4sdfodgec6dn6qqydvpkcjytu">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31p4sdfodgec6dn6qqydvpkcjytu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing">
   </a>
 </p>
@@ -29,7 +35,3 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
-
-
-
