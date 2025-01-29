@@ -26,3 +26,8 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+---
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31p4sdfodgec6dn6qqydvpkcjytu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
